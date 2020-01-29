@@ -1,0 +1,1 @@
+this an example of map reduce with mongodb
